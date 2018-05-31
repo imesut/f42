@@ -17,4 +17,4 @@ Repeat [visualizations](https://github.com/imesut/f42/tree/master/images/sna_ima
 	![Cleaner Script is runned from browser](images/descriptive_images/gather_list_screen.png)
 	_Cleaner Script is runned from browser_
 
-2. **Cleaner** script(Python) is running from local and organizes console log to structured format, ready to analyse in Gephi. Check gather [script here.](https://github.com/imesut/f42/blob/master/scripts/cleaner.py)
+2. **Cleaner** script(Python) is running from local and organizes console log to structured format, ready to analyse in Gephi. Check cleaner [script here.](https://github.com/imesut/f42/blob/master/scripts/cleaner.py)
