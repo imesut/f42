@@ -1,7 +1,0 @@
-;Degree;Closeness Centrality;Harmonic Closeness Centrality;Betweeness Centrality;Authority (Hub);Eigen Centrality
-Degree;1,000;0,797;0,832;0,961;0,953;0,958
-Closeness Centrality;0,797;1,000;0,994;0,741;0,908;0,908
-Harmonic Closeness Centrality;0,832;0,994;1,000;0,757;0,936;0,936
-Betweeness Centrality;0,961;0,741;0,757;1,000;0,871;0,877
-Authority (Hub);0,953;0,908;0,936;0,871;1,000;1,000
-Eigen Centrality;0,958;0,908;0,936;0,877;1,000;1,000
