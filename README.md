@@ -4,6 +4,8 @@ This is my B.Sc thesis project repo, subjected to patent analysis for F42 _"Ammu
 
 Please check [the paper](https://github.com/imesut/f42/blob/master/paper.pdf) for detailed methodology, literature research and conclusion.
 
+Check the presentation at [bit.ly/f42presentation](http://bit.ly/f42presentation)
+
 Take a look at state of F42 technologies in Turkey from descriptive statistics from [descriptive images directory](https://github.com/imesut/f42/tree/master/images/descriptive_images).
 
 
